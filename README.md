@@ -1,3 +1,5 @@
+NOTE: This is forked from https://github.com/matt-major/do-wrapper to not rely on a node.js dependency, so that it can be run more easily in a browser context.
+
 do-wrapper
 ==========
 Digital Ocean API v2 - Node.js Wrapper
