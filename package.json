@@ -1,6 +1,6 @@
 {
   "name": "do-wrapper-browser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Node.js Wrapper for Digital Ocean API v2 for the browser",
   "author": "Matt Major",
   "homepage": "https://github.com/cloud-launcher/do-wrapper-browser",
